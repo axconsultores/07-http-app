@@ -9,4 +9,4 @@ en package,json
    
   }
   se corre: 
-npm install json-server  --save-dev
+npm install json-server  --save-dev.
