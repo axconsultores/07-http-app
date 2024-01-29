@@ -1,0 +1,12 @@
+para crud
+https://www.npmjs.com/package/json-server
+
+instalar 
+npm install json-server
+pero para que quede en desarrollo
+en package,json
+ "devDependencies": {
+   
+  }
+  se corre: 
+npm install json-server  --save-dev
